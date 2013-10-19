@@ -3,7 +3,7 @@ ruby '2.0.0'
 #ruby-gemset=railstutorial_rails_4_0
 
 gem 'rails', '4.0.0'
-
+gem 'bootstrap-sass', '2.3.2.0'
 group :development, :test, :production do
   gem 'pg', '0.15.1'
   gem 'rspec-rails', '2.13.1'
